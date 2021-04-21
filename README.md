@@ -1,1 +1,1 @@
-# AI-Hackathon-Pune
+AIHackathon
